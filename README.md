@@ -1,7 +1,7 @@
 # 2D-Group-Platformer
 2D platform prototype made by me and a few freinds.
 
-This Programmer is ran using The extenstion of SFML.
+This Program is ran using The extenstion of SFML.
 and using Visual Studio as our base IDE.
 
 When making this platformer we divided the roles of creating the platformer up with each other, 
